@@ -1,0 +1,30 @@
+{
+  "name": "tie-break-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldmuller/tie-break-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldmuller/tie-break-api/issues"
+  },
+  "homepage": "https://github.com/haroldmuller/tie-break-api#readme",
+  "dependencies": {
+    "blubird": "0.0.1-security",
+    "body-parser": "^1.19.0",
+    "es6-error": "^4.1.1",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.11",
+    "serialize-error": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
